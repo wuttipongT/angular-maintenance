@@ -1,0 +1,47 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 11:29:39 ก.พ. 17, 2559 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 7:56:09 ส.ค. 10, 2559.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+.float-left{float:left;}
+.clearfix:before, .clearfix:after {
+    content: "";
+    display: table;
+}
+.section-top{margin: 20px; 0px}
+.section-top section {margin-left: 5px;}
+.clearfix:after {
+    clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height:0;
+}
+.clearfix {
+    *zoom: 1;
+}
+ul > li, a{ cursor:pointer;}
+.modal { 
+	display: block;
+}
+
+/* Custom dialog/modal headers */
+
+.dialog-header-error { background-color: #d2322d; }
+.dialog-header-wait { background-color: #428bca; }
+.dialog-header-notify { background-color: #eeeeee; }
+.dialog-header-confirm { background-color: #333333; }
+	.dialog-header-error span, .dialog-header-error h4,
+	.dialog-header-wait span, .dialog-header-wait h4,
+	.dialog-header-confirm span, .dialog-header-confirm h4 { color: #ffffff; }
+
+/* Ease Display */
+
+.table-view td{padding: 8px;}
