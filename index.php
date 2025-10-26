@@ -7,7 +7,7 @@
 <script type="text/javascript">archive_analytics.values.server_name="wwwb-app6.us.archive.org";archive_analytics.values.server_ms=1272;</script>
 <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
 
-	<title>ระบบซ่อมบำรุง สเปเชี่ยวตี่ เนเชอรัล โปรดักส์</title>
+	<title>ระบบซ่อมบำรุง</title>
 	<meta charset="UTF-8"/>
 	<meta name="author" content="wuttipong thongmon webmaster@specialty innovation co.ltd"/>
 	<meta name="description" content="Site Request Manternance of Specialty Natural Product Co.Ltd"/>
@@ -64,8 +64,8 @@
 			<img src="images/logo.jpg" alt="snpthai service" width="150"/>
 		</div>
 		<section class="float-left">
-		<h1>Specialty Natural Product Co.,Ltd</h1>
-		<p>ระบบแจ้งซ้อมบำรุง สเปเชี่ยวตี่ เนเชอรัล โปรดัสก์</p>
+		<h1>Company Name</h1>
+		<p>ระบบแจ้งซ้อมบำรุง</p>
 		</section>
 		<i class="clearfix"></i>
 		<div ng-show="user">Hi : <span class="glyphicon glyphicon-user" aria-hidden="true"></span>&nbsp;{{user.username}} | <a href="#" ng-click="logout()">Logout</a>
@@ -85,7 +85,7 @@
 	<nav class="navbar navbar-inverse navbar-fixed-bottom">
 		<div class="container-fluid">
 			<div class="nav-bar-header">
-				<a class="navbar-brand" href="#"> snp | Service</a>
+				<a class="navbar-brand" href="#"> Service</a>
 			</div>
 			<div>
 				<ul class=" nav navbar-nav">
